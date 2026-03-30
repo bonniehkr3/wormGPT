@@ -89,7 +89,7 @@ WormGPT 4 has no official public documentation, but based on its functionality t
 ```
 
 ---
-
+ 
 ## 4. Threat Model
 
 ### 4.1. Threat Vectors
